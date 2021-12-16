@@ -1,2 +1,6 @@
+#rust
 debug
 target
+
+#typescript
+**/node_modules/
